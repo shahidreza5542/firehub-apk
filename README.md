@@ -8,7 +8,7 @@ FireHub ek free aur open-source Android app hai jo aapko Free Fire tournaments m
 
 Is app ko download karne ke liye niche diye gaye link par click karein.
 
-*Download FireHub APK:* [https://github.com/shahidreza5542/firehub-apk/raw/refs/heads/main/firehub%201.0.0.apk]
+*Download FireHub APK:* [https://github.com/shahidreza5542/firehub-apk/raw/refs/heads/main/firehub%201.2.0.apk]
 
 *Features:*
 
